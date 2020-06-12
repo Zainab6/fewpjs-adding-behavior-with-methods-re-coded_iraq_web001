@@ -32,3 +32,5 @@ class Bird {
     return `${this.name}says squawk!`
   }
 }
+
+let parrot = new Bird(parrot , male)
