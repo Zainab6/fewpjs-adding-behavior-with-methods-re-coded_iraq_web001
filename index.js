@@ -33,4 +33,5 @@ class Bird {
   }
 }
 
-let bird = new Bird('parrot' , male)
+let bird = new Bird('parrot' , 'male')
+bird.speak()
