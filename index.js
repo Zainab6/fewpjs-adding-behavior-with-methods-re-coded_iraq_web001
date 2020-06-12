@@ -33,4 +33,4 @@ class Bird {
   }
 }
 
-let parrot = new Bird('parrot' , male)
+let bird = new Bird('parrot' , male)
